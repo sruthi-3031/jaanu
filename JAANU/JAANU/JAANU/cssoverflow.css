@@ -1,0 +1,16 @@
+div{
+    height: 300px;
+    width: 500px;
+    border: 2px solid whitesmoke;
+    overflow: scroll;
+    float: left;
+    color: rgba(236, 16, 129);
+    background-color: rgba(66, 250, 161, 0.2);
+    margin: 400px 700px;
+   }
+   body{
+    background-image: url(mother.jpg);background-repeat: no-repeat;background-size:cover;
+    }
+    audio{
+        background-color:rgb(38, 112, 240)
+    }

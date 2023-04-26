@@ -1,0 +1,84 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+}
+section{
+    margin-left: 20px;
+}
+h1{
+text-align: center;
+color: rgb(16, 125, 6);
+padding: 20px;
+font-size: 40px;
+
+}
+input{
+    border: 1px solid black;
+    width: 500px;
+    height: 30px;
+    border-radius: 50px;
+}
+.kk{
+    padding: 10px;
+}
+
+nav{
+    height: 80px;
+    background-color: rgb(5, 242, 41);
+    text-align: center;
+}
+
+li{ line-height: 10px;    
+    display: inline-block;
+    margin: 10px 10px;
+    padding: 10px;
+    color: black;
+    transition: 0.25;
+    font-size: 18px;
+}
+li:hover{
+    background-color: green;
+    color: white;
+}
+button{height: 30px;
+    width: 80px;
+    padding: 10px 10px;
+    background-color: green;
+    border-radius: 4px;
+    margin: 5px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+   align-items: center;
+    border-color: darkgreen;
+    align-items: center;
+
+}
+button:hover{
+   transition: 0.25;
+   background-color: darkgreen;
+    
+}
+.item img{
+    height: 300px;
+    width: 400px;
+    border-radius: 30px;
+}
+.item{
+    display: inline-block;
+}
+.item h4 {
+    text-align: center;
+    font-size: 25px;
+    padding: 5px;
+}
+#u{
+    align-items: center;
+}
+body{
+    background-image:url("foodplace.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

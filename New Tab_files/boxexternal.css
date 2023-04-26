@@ -1,0 +1,18 @@
+.rounded-pill{
+    padding: 10px;
+    height:37px;
+    width:95px;
+
+}
+.nav-item{
+    margin-left: 100px;
+}
+.kk{
+    margin-left: 10px;
+}
+.current-location-text{
+    border-color:black;
+}
+.container-fluid{
+    display: inline-block;
+}

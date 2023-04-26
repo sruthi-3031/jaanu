@@ -1,0 +1,30 @@
+p{
+    background-color: darkturquoise;
+    color: brown;
+}
+#a23{
+    background-color: aquamarine;
+    display: inline-block;
+}
+ol{
+     font-size:30px ;
+    list-style-type: upper-roman;
+}
+ul{
+    font-size: 30px;    list-style-type:square;
+}
+#s31{font-size: 30px;
+    list-style-position: inside;list-style-type: square;
+}  
+#j30{
+    font-size: 30px;
+    list-style-position:outside;
+    list-style-type: disc; 
+} 
+body{
+    background-image: url(brother.webp);background-repeat: no-repeat;background-size: cover;
+}
+div{
+    height: 800px;width: 1000px;border: 2px solid black;margin: 50px 400px;background-color:rgba(78, 222, 233, 0.3);overflow: scroll;
+}
+audio{color: aqua;}
